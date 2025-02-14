@@ -16,9 +16,9 @@
  تدعم تثبيت وتنشيط المنتجات الاتية:
 
 - Microsoft 365
-- Office 2016, 2019, 2021
-- Visio 2016, 2019, 2021 & Online Plan 2
-- Project 2016, 2019, 2021 & Online Desktop Client
+- Office 2016, 2019, 2021, 2024
+- Visio 2016, 2019, 2021, 2024 & Online Plan 2
+- Project 2016, 2019, 2021, 2024 & Online Desktop Client
 
 :الوظائف والمميزات
 
@@ -37,12 +37,17 @@
 
 ## التحميل والبدء السريع
 
-- [تحميل](https://help.coolhub.top/start/download.html).
-- [البدء السريع](https://github.com/YerongAI/Office-Tool/wiki).
-- [التوثيق](https://help.coolhub.top/).
+- [تحميل](https://otp.landian.vip/download.html)
+- [التوثيق](https://otp.landian.vip/help/)
+
+Or download Office Tool Plus using PowerShell:
+
+```powershell
+irm officetool.plus | iex
+```
 
 ## عنا
 
-© 2016-2022 Yerong. جميع الحقوق محفوظة.
+© 2016-2025 Yerong. جميع الحقوق محفوظة.
 
 > المدونة [@Yerong の小窝](https://www.coolhub.top/) · جيت هب [@YerongAI](https://github.com/YerongAI) · تليجرام [@Office Tool Plus](https://t.me/s/otp_channel) · [مراسلتنا](mailto:yerong@coolhub.top)

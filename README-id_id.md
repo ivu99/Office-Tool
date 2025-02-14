@@ -16,9 +16,9 @@
 Mendukung untuk memasangan ubahsuai dan mengaktivasi produk berikut:
 
 - Microsoft 365
-- Office 2016, 2019, 2021
-- Visio 2016, 2019, 2021 & Online Plan 2
-- Project 2016, 2019, 2021 & Online Desktop Client
+- Office 2016, 2019, 2021, 2024
+- Visio 2016, 2019, 2021, 2024 & Online Plan 2
+- Project 2016, 2019, 2021, 2024 & Online Desktop Client
 
 Fungsi Tambahan:
 
@@ -35,12 +35,17 @@ Fungsi Tambahan:
 
 ## Download and quick start
 
-- [Download](https://help.coolhub.top/start/download.html).
-- [Quick start](https://github.com/YerongAI/Office-Tool/wiki).
-- [Documentation](https://help.coolhub.top/).
+- [Download](https://otp.landian.vip/download.html)
+- [Documentation](https://otp.landian.vip/help/)
+
+Or download Office Tool Plus using PowerShell:
+
+```powershell
+irm officetool.plus | iex
+```
 
 ## Tentang
 
-© 2016-2022 Yerong. Semua Hak Cipta Dilindungi.
+© 2016-2025 Yerong. Semua Hak Cipta Dilindungi.
 
-> Blog [@Yerong の小窝](https://www.coolhub.top/) · GitHub [@YerongAI](https://github.com/YerongAI) · Telegram [@Office Tool Plus](https://t.me/s/otp_channel) · [E-mail](mailto:yerong@coolhub.top)
+> Blog [@Yerong の小窝](https://www.coolhub.top/) · GitHub [@YerongAI](https://github.com/YerongAI) · Telegram [@Office Tool Plus](https://t.me/s/otp_channel)

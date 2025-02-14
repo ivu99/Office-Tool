@@ -16,9 +16,9 @@
 支援以下 Office 產品的自訂部署和啟用：
 
 - Microsoft 365
-- Office 2016, 2019, 2021
-- Visio 2016, 2019, 2021 & Online Plan 2
-- Project 2016, 2019, 2021 & Online Desktop Client
+- Office 2016, 2019, 2021, 2024
+- Visio 2016, 2019, 2021, 2024 & Online Plan 2
+- Project 2016, 2019, 2021, 2024 & Online Desktop Client
 
 除了部署 Office 之外，Office Tool Plus 還擁有以下便利功能：
 
@@ -35,9 +35,15 @@
 
 ## 下載 & 快速入門
 
-- [下載](https://help.coolhub.top/start/download.html)
-- [快速入門(繁體)](https://help.coolhub.top/zh-tw/)
+- [下載](https://otp.landian.vip/download.html)
+- [快速入門(繁體)](https://otp.landian.vip/help/)
 - [教學文章(繁體)](https://www.cotpear.com/topics/office-tool-plus/?utm_source=github.com/office-tool)
+
+Or download Office Tool Plus using PowerShell:
+
+```powershell
+irm officetool.plus | iex
+```
 
 ## 合法性
 
@@ -56,6 +62,6 @@ Office Tool Plus 是以 [Microsoft Office 部署工具](https://docs.microsoft.c
 
 ## 關於
 
-© 2016-2022 Yerong. All Rights Reserved.
+© 2016-2025 Yerong. All Rights Reserved.
 
-> Blog [@Yerong の小窝](https://www.coolhub.top/) · GitHub [@YerongAI](https://github.com/YerongAI) · Telegram [@Office Tool Plus](https://t.me/s/ot_channel_tw) · [E-mail](mailto:yerong@coolhub.top)
+> Blog [@Yerong の小窝](https://www.coolhub.top/) · GitHub [@YerongAI](https://github.com/YerongAI) · Telegram [@Office Tool Plus](https://t.me/s/ot_channel_tw)
